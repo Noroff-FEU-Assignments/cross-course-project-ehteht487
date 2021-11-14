@@ -23,3 +23,51 @@ nav a:hover {
 .icon {
   color: #2b8f64;
 }
+
+section h1 {
+  color: white;
+  font-family: "Bebas Neue", Verdana, cursive;
+  background-color: #cc083c;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+main section p {
+  color: black;
+  font-family: "Montserrat", Verdana, sans-serif;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.headerimage {
+  max-width: 100%;
+}
+
+h3 {
+  font-family: "Bebas Neue", Verdana, cursive;
+  font-size: 3rem;
+  color: #b41e1e;
+}
+
+section li {
+  font-family: "Montserrat", Verdana, sans-serif;
+  color: black;
+  font-size: 1, 2rem;
+}
+
+footer {
+  background-color: #dde8ec;
+}
+
+footer a {
+  font-family: "Bebas Neue", Verdana, cursive;
+  color: black;
+  font-size: 1 rem;
+  font-weight: 50;
+}
+
+footer p {
+  color: black;
+  font-family: "Bebas Neue", Verdana, cursive;
+}
